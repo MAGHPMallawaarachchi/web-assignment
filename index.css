@@ -86,13 +86,13 @@ i:hover{
 .first-slider {
     min-height: 800px;
     
-    background-image: url('C:/Users/Hasini/OneDrive/Desktop/Main/cover-1.jpg');
+    background-image: url('https://github.com/MAGHPMallawaarachchi/MAGHPMallawaarachchi.github.io/blob/main/images/cover-1.jpg?raw=true');
     background-size: cover;
 }
 .first-slider-1 {
     min-height: 800px;
    
-    background-image: url('C:/Users/Hasini/OneDrive/Desktop/Main/cover-2.jpg');
+    background-image: url('https://github.com/MAGHPMallawaarachchi/MAGHPMallawaarachchi.github.io/blob/main/images/cover-2.jpg?raw=true');
     background-size: cover;
 }
 
