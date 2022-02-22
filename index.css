@@ -103,7 +103,7 @@ i:hover{
     color: #f65aa7!important;
 }
 
-@media (max-width: 991.98px) { 
+@media (max-width: 992px) { 
     .carousel-control-prev, 
     .carousel-control-next {
         display: none;

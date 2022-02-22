@@ -156,7 +156,10 @@ i:hover{
 .description p{
     text-align: center;
     margin-bottom: 50px;
-
+}
+.description a{
+    font-size: 16px;
+    color: #cf5db6;
 }
 
 
@@ -207,7 +210,11 @@ i:hover{
     font-family: 'Roboto Slab', serif;
     font-size: 16px;
 }
-.card-description p{
+ul{
+    text-align: left;
+    margin-top: 30px;
+}
+.card-description p, ul{
     color: #888888;
     font-size: 14px;
     font-family: 'Open Sans';
