@@ -253,6 +253,7 @@ i:hover{
     padding: 15px;
     border-left: 2px solid #f65aa7;
     font-style: italic; 
+    text-align: left;
 }
 
 .quotes .p-a {
@@ -280,7 +281,13 @@ i:hover{
 }
 
 .quotes img{
-    margin-left: 6 0px;
+    margin-left: 60px;
+    height: 250px;
+    max-width: 375px;
+}
+
+.quotes iframe{
+    margin-left: 60px;
     height: 250px;
     max-width: 375px;
 }
@@ -288,7 +295,7 @@ i:hover{
 @media screen and (max-width: 992px)
 {
     .quotes iframe{
-        width: 400px;
+        /*width: 400px;*/
         margin-left: 30px;
     }
     .quotes img{
