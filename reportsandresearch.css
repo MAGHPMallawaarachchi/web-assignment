@@ -285,13 +285,10 @@ i:hover{
     max-width: 375px;
 }
 
-.quotes iframe{
-    margin-left: 60px;
-}
 @media screen and (max-width: 992px)
 {
     .quotes iframe{
-        width: 100%;
+        width: 400px;
         margin-left: 30px;
     }
     .quotes img{
@@ -305,6 +302,7 @@ i:hover{
         margin-left: 15px;
     }
     .quotes img{
+        height: 100%;
         margin-left: 15px;
     }
 }
