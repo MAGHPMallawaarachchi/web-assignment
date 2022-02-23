@@ -164,6 +164,23 @@ i:hover{
     padding-right: 70px;
 }
 
+@media screen and (max-width: 992px){
+    .blog-description{
+        padding: 30px;
+    }
+    .blog-container{
+        padding-bottom: 20px;
+    }
+}
+
+@media screen and (max-width: 600px){
+    .blog-description{
+        padding: 20px;
+    }
+    .blog-container{
+        padding-bottom: 10px;
+    }
+}
 .blog-description a{
     text-transform: uppercase;
     color: #f65aa7;
